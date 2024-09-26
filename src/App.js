@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './coesys2024.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Bienvenido al demo de COECYS 2024
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/coecys.usac"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          COECYS 2024
         </a>
       </header>
     </div>
